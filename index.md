@@ -1,6 +1,4 @@
-## LiCal App
-
-### About LiCal
+## About LiCal
 
 LiCal app automatically synchronize all the tasks(with due date) in Reminders app to Calendar app.
 
@@ -14,7 +12,7 @@ To keep your data secure, LiCal use MacOS native features and works without inte
 
 ![Complete](pic/complete.png)
 
-### Features
+## Features
 
 - Create event in calendar when you add new reminder(with due date).
 - Update event when related reminder has changed.
@@ -23,11 +21,11 @@ To keep your data secure, LiCal use MacOS native features and works without inte
 - Delete event when related reminder's due date has removed.
 - Manage synchronization rules between reminders and calendar.
 
-### Upcomming Features
+## Upcomming Features
 
 - More options for synchronization rules.
 - More Calendar apps and ToDo apps support.
 
-### Support or Contact
+## Support or Contact
 
 mail: licalapp@laconiks.tech
