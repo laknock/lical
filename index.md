@@ -1,4 +1,4 @@
-## About LiCal
+## LiCal App
 
 LiCal app automatically synchronize all the tasks(with due date) in Reminders app to Calendar app.
 
