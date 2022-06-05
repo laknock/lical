@@ -6,6 +6,14 @@ LiCal app automatically synchronize all the tasks(with due date) in Reminders ap
 
 To keep your data secure, LiCal use MacOS native features and works without internet connection. 
 
+![Intro](pic/intro.png)
+
+![Sync](pic/sync.png)
+
+![Rules](pic/rules.png)
+
+![Complete](pic/complete.png)
+
 ### Features
 
 - Create event in calendar when you add new reminder(with due date).
