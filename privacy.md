@@ -1,4 +1,6 @@
-Privacy Policy
+## LiCal App
+
+### Privacy Policy
 
 By accessing or using LiCal, you consent to the terms and conditions of this Privacy Policy. Irrespective of which country you live or use the Application in, you authorize us to transfer, store, and use your information in the United States and any other country where we operate. We may modify or update this Privacy Policy at any time effective upon its posting on Tot. Your continued use of this Application constitutes your acceptance of this Privacy Policy and any modifications or updates thereto.
 
